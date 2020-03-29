@@ -1,0 +1,4 @@
+/.metadata/
+AutomatedTest/test-output/*
+AutomatedTest/target/*
+AutomatedTest/src/main/resources/*
